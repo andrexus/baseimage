@@ -1,0 +1,5 @@
+install:
+  - docker --version
+
+script:
+  - docker build --rm -t baseimge:latest .
