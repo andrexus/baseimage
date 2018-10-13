@@ -1,4 +1,5 @@
-# baseimage
+# baseimage [![Docker Automated build](https://img.shields.io/docker/automated/andrexus/baseimage.svg)](https://hub.docker.com/r/andrexus/baseimage/) [![Build Status](https://travis-ci.org/andrexus/baseimage.svg?branch=master)](https://travis-ci.org/andrexus/baseimage)
+
 
 _minimalist docker base image to deploy services and applications._
 
